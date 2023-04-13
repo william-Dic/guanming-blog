@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Blog of me',
 
   // social usernames (optional)
-//   twitter: 'guanming0717',
+  twitter: 'guanming0717',
   github: 'william-Dic',
 //   linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
@@ -28,7 +28,7 @@ export default siteConfig({
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
   defaultPageCover: null,
-  defaultPageCoverPosition: 0.5,
+  defaultPageCoverPosition: 1,
 
   // whether or not to enable support for LQIP preview images (optional)
   isPreviewImageSupportEnabled: true,
