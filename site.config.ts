@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Guanming’s Blog_Test',
-  domain: 'https://broken-trust-170.notion.site/Guanming-s-Blog_Test-70b874bbb54d48d49ae0c3306638e8d0',
+  name: 'Guanming’s Blog',
+  domain: 'https://broken-trust-170.notion.site/Guanming-s-Blog-70b874bbb54d48d49ae0c3306638e8d0',
   author: 'Guanming',
 
   // open graph metadata (optional)
